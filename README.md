@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I am Heili Lowman, and my pronouns are she|her.
+
+I am interested in the biogeochemistry and ecosystem function of aquatic systems in response to environmental change, and I am currently a [Modelscape](https://microcollaborative.atlassian.net/wiki/spaces/MP/overview) Postdoctoral Scholar in the [Department of Natural Resources and Environmental Science](https://www.unr.edu/nres) at the University of Nevada, Reno. My past and ongoing research projects examine the fate of organic matter and nutrients as they traverse the land to ocean margin. Teaching and scientific communication are integral to my research, and I am always seeking new mentorship and collaboration opportunities. I am also on [Twitter](https://twitter.com/heili_lowman) and [ResearchGate](https://www.researchgate.net/profile/Heili-Lowman-2).
 
 <!--
 **hlowman/hlowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
