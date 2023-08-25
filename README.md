@@ -1,6 +1,6 @@
 ### Hello! I am an aquatic biogeochemist and ecosystem ecologist.
 
-I am interested in the biogeochemistry and ecosystem function of aquatic systems in response to environmental change, and I am currently a [Modelscape](https://microcollaborative.atlassian.net/wiki/spaces/MP/overview) Postdoctoral Scholar in the [Blaszczak Lab](https://blaszczaklab.weebly.com/) at the [Department of Natural Resources and Environmental Science](https://www.unr.edu/nres) at the University of Nevada, Reno. To learn more about my past and ongoing research, please visit [my website](https://www.heililowman.com/research.html). I am also on [Twitter](https://twitter.com/heili_lowman) and [ResearchGate](https://www.researchgate.net/profile/Heili-Lowman-2).
+I am interested in the biogeochemistry and ecosystem function of aquatic systems in response to environmental change, and I am currently a [Modelscape](https://microcollaborative.atlassian.net/wiki/spaces/MP/overview) Postdoctoral Scholar in the [Blaszczak Lab](https://blaszczaklab.weebly.com/) in the Department of Natural Resources and Environmental Science at the University of Nevada, Reno as well as a Visiting Scholar in the [Bernhardt Lab](https://nicholas.duke.edu/people/faculty/bernhardt) in the Department of Biology at Duke University. To learn more about my past and ongoing research, please visit [my website](https://www.heililowman.com/research.html).
 
 ![tahoe panorama](IMG_4018.png) 
 
