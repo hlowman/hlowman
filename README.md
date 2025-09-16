@@ -1,6 +1,6 @@
 ### Hello! I am an aquatic biogeochemist and ecosystem ecologist.
 
-I am interested in the biogeochemistry and ecosystem function of aquatic systems in response to environmental change. I am currently a Postdoctoral Associate in the [Bernhardt Lab](https://nicholas.duke.edu/people/faculty/bernhardt) in the Dept. of Biology at Duke University. 
+I am interested in the biogeochemistry and ecosystem function of aquatic systems in response to environmental change. I am currently a Postdoctoral Associate in the [Bernhardt Lab](https://nicholas.duke.edu/people/faculty/bernhardt) in the Dept. of Biology at Duke University. In fall 2026, I will begin an Assistant Professor position in the [School of Aquatic and Fishery Sciences](https://fish.uw.edu/) at the University of Washington. 
 
 Links pertaining to recent workshops and publications are pinned below. To learn more about my research, please visit [my website](https://www.heililowman.com/research.html).
 
